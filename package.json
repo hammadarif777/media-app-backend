@@ -1,0 +1,19 @@
+{
+  "name": "hammad-backend",
+  "version": "1.0.0",
+  "description": "Learning Backend with node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
+  }
+}
